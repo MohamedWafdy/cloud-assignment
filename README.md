@@ -8,7 +8,7 @@ You can find the Docker image for this project on Docker Hub at the following li
 To run the project, follow these steps:
 1. Clone the complete project from GitHub:
 ```code 
-git clone https://github.com/NOSTVA/Docker-Node-Mongo-Project.git
+git clone https://github.com/MohamedWafdy/cloud-assignment.git
 ```
 2. Start the application using the docker-compose.yml file:
 ```code
